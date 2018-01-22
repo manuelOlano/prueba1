@@ -17,7 +17,7 @@
 <div class="cuadro">
   <h2>Haciendo una prueba</h2>
   <p>Esto es una prueba</p>
-  <h1>Modificando prueba</h1>
+  <h1 class="h1">Modificando prueba</h1>
     <h3>Modificacion numero2</h3>
 </div>
 </body>
